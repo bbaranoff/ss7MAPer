@@ -1,6 +1,6 @@
 #!/bin/sh -x
 
-git clone https://github.com/ernw/ss7MAPer
+git clone https://github.com/bbaranoff/ss7MAPer
 
 cd ss7MAPer
 rebar get-deps
